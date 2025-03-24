@@ -6,16 +6,7 @@ Me chamo Maria Eduarda Rocha F, tenho 15 anos e sou natural de Fortaleza. Faço 
 
 <p align="left">
     <a href="https://www.youtube.com/@picotaaz">
-        <img 
-            alt="Youtube" 
-            title="Inscreva-se no meu canal" 
-            src="www.youtube.com/@picotaaz"
-    </a>
     <a href="https://www.instagram.com/eduarda_rochafr?igsh=dGY4YjRoZ2VwMTB2">
-        <img 
-            alt="Instagram Profile" 
-            title="Intagram profile" 
-        />
     </a> 
 
 ### 🤖 Linguagens e Tecnologias
