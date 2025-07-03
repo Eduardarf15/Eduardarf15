@@ -5,18 +5,24 @@
 My name is Maria Eduarda Rocha F, I'm 16 years old and I'm from Fortaleza, Brasil. I'm studying high school at EEEP Mário Alencar, with a technical course in Systems Development. I'm currently learning C++ and improving my web programming. I'm kind of (very) passionate about technology.
 
 <p align="left">
-    <a href="https://www.youtube.com/@picotaaz">
+    <a href="https://www.youtube.com/@picotaaz" target="_blank">
         <img 
-            alt="Youtube" 
+            alt="YouTube" 
             title="Inscreva-se no meu canal" 
-            src="www.youtube.com/@picotaaz"
-    </a>
-    <a href="https://www.instagram.com/eduarda_rochafr?igsh=dGY4YjRoZ2VwMTB2">
-        <img 
-            alt="Instagram Profile" 
-            title="Intagram profile" 
+            src="https://img.icons8.com/fluency/48/aa66cc/youtube-play.png"
+            style="width:48px; height:48px; margin-right:10px;"
         />
-    </a> 
+    </a>
+    <a href="https://www.instagram.com/eduarda_rochafr?igsh=dGY4YjRoZ2VwMTB2" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Instagram profile" 
+            src="https://img.icons8.com/fluency/48/aa66cc/instagram-new.png"
+            style="width:48px; height:48px;"
+        />
+    </a>
+</p>
+
 
 ### 🤖 Linguagens e Tecnologias
 
