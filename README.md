@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Eduarda Rocha F, tenho 15 anos e sou natural de Fortaleza. Faço o Ensino Médio na EEEP Mário Alencar, com o curso técnico em Desenvolvimento de sistemas. Atualmente, estou aprendendo C++ e aprimorando programação web. Sou apaixonada por tecnologia. 
+Me chamo Maria Eduarda Rocha F, tenho 16 anos e sou natural de Fortaleza. Faço o Ensino Médio na EEEP Mário Alencar, com o curso técnico em Desenvolvimento de sistemas. Atualmente, estou aprendendo C++ e aprimorando programação web. Meio (muito) apaixonada por tecnologia. 
 
 <p align="left">
     <a href="https://www.youtube.com/@picotaaz">
