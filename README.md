@@ -72,7 +72,8 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/43b69c9a-ab97-4255-9538-b3ae7cc631b0" />
+    src="https://tse2.mm.bing.net/th/id/OIP.q0DQLwqov4XeEv1FvaWwwAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+
 />
 <img 
     align="left" 
