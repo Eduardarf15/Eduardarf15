@@ -80,7 +80,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     title="java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-java-programming-icon-png-image_6044136.jpg" 
+    src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" 
 />
 <br/>
 <br/>
