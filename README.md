@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-My name is Maria Eduarda Rocha F, I'm 16 years old and I'm from Fortaleza, Brasil. I'm studying high school at EEEP Mário Alencar, with a technical course in Systems Development. I'm currently learning C++ and improving my web programming. I'm kind of (very) passionate about technology.
+My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazil. I'm currently attending high school at EEEP Mário Alencar, where I'm also taking a technical course in Systems Development. I'm honing my programming skills. I'm deeply passionate about technology.
 
 <p align="left">
     <a href="https://www.youtube.com/@picotaaz" target="_blank">
