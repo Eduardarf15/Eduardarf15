@@ -13,7 +13,7 @@ My name is Maria Eduarda Rocha F, I'm 16 years old and I'm from Fortaleza, Brasi
             style="width:48px; height:48px; margin-right:10px;"
         />
     </a>
-    <a href="https://www.instagram.com/eduarda_rochafr?igsh=dGY4YjRoZ2VwMTB2" target="_blank">
+    <a href="https://www.instagram.com/eduardafr___/" target="_blank">
         <img 
             alt="Instagram" 
             title="Instagram profile" 
