@@ -56,7 +56,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://github.com/user-attachments/assets/ea5c17fd-3ee2-4c8c-95b9-664a584a0b16"/>
+    src="https://github.com/user-attachments/assets/ea5c17fd-3ee2-4c8c-95b9-664a584a0b16"/>
 <img 
     align="left" 
     alt="Python" 
