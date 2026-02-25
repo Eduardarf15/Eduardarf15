@@ -1,6 +1,6 @@
 # 👩🏻‍💻Eduarda
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-End`**
 
 My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazil. I'm currently attending high school at EEEP Mário Alencar, where I'm also taking a technical course in Systems Development. I'm honing my programming skills. I'm deeply passionate about technology.
 
@@ -65,13 +65,6 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="java" 
-    title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" 
-/>
+
 <br/>
 <br/>
