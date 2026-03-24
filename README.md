@@ -1,8 +1,11 @@
 # 👩🏻‍💻Eduarda
 
-**`Back-End Developer | Systems Development Student`**
+**`Desenvolvedora Back-End`**
 
-My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazil. I'm currently attending high school at EEEP Mário Alencar, where I'm also taking a technical course in Systems Development. I'm honing my programming skills. I'm deeply passionate about technology.
+Desenvolvedora em formação técnica pela EEEP Mário Alencar (Fortaleza/CE).
+Foco minha trajetória em arquitetura de sistemas back-end e modelagem eficiente de dados.
+Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
+Busco aplicar princípios de Engenharia de Software e metodologias ágeis para transformar requisitos complexos em soluções escaláveis e eficientes.
 
 <p align="left">
     <a href="http://www.linkedin.com/in/maria-eduarda-rocha-freitas-08b0ba358" target="_blank">
@@ -25,7 +28,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
 
 
 ### 🤖 Linguagens e Tecnologias
-
+**`Back-end e Database`**
 <img 
     align="left" 
     alt="Python" 
@@ -65,6 +68,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b" />
+    **`Front-end e Tools`**
 <img 
     align="left" 
     alt="HTML"
