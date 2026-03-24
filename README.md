@@ -7,25 +7,6 @@ Foco minha trajetória em arquitetura de sistemas back-end e modelagem eficiente
 Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
 Busco aplicar princípios de Engenharia de Software e metodologias ágeis para transformar requisitos complexos em soluções escaláveis e eficientes.
 
-<p align="left">
-    <a href="http://www.linkedin.com/in/maria-eduarda-rocha-freitas-08b0ba358" target="_blank">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://github.com/user-attachments/assets/89f07858-cfdf-4ebf-99fe-69d571940b4d"
-            style="width:48px; height:48px; margin-right:10px;"
-        />
-    </a>
-    <a href="https://www.instagram.com/eduardafr___/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Perfil do Instagram" 
-            src="https://img.icons8.com/fluency/48/aa66cc/instagram-new.png"
-            style="width:48px; height:48px;"
-        />
-    </a>
-</p>
-
 
 ### 🤖 Linguagens e Tecnologias
 
