@@ -5,12 +5,12 @@
 My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazil. I'm currently attending high school at EEEP Mário Alencar, where I'm also taking a technical course in Systems Development. I'm honing my programming skills. I'm deeply passionate about technology.
 
 <p align="left">
-    <a href="https://www.youtube.com/@picotaaz" target="_blank">
+    <a href="http://www.linkedin.com/in/maria-eduarda-rocha-freitas-08b0ba358" target="_blank">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
             src="https://github.com/user-attachments/assets/89f07858-cfdf-4ebf-99fe-69d571940b4d"
-            style="width:48px; height:48px; margin-right:10px;"
+            style="width:38px; height:38px; margin-right:10px;"
         />
     </a>
     <a href="https://www.instagram.com/eduardafr___/" target="_blank">
