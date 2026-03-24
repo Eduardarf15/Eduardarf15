@@ -28,13 +28,6 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
 
 <img 
     align="left" 
-    alt="Cpp" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b" />
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -43,11 +36,11 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5"
+    src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"
 />
 <img 
     align="left" 
@@ -65,6 +58,13 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     style="padding-right: 10px;" 
     src= "https://github.com/user-attachments/assets/c6214786-fc7c-47b1-b1af-289238dafad4"
 />
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b" />
 <img 
     align="left" 
     alt="HTML"
@@ -89,13 +89,14 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.js"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"
+    src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5"
 />
 <br/>
 <br/>
