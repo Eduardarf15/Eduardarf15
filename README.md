@@ -10,7 +10,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
             alt="Linkedin" 
             title="Linkedin" 
             src="https://github.com/user-attachments/assets/89f07858-cfdf-4ebf-99fe-69d571940b4d"
-            style="width:38px; height:38px; margin-right:10px;"
+            style="width:40px; height:40px; margin-right:10px;"
         />
     </a>
     <a href="https://www.instagram.com/eduardafr___/" target="_blank">
