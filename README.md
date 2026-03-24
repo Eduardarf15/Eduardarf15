@@ -28,7 +28,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 
 
 ### 🤖 Linguagens e Tecnologias
-<br><br>
+<br>
 **`Back-end e Database`**
 <img 
     align="left" 
