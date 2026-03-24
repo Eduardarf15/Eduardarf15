@@ -9,6 +9,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 ### Linguagens e Tecnologias
 
 `Back-end e Database`
+
 <p>
   <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"/>
@@ -20,6 +21,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 <br clear="both">
 
 `Front-end e Tools`
+
 <p>
   <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
