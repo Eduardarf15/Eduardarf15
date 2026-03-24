@@ -53,5 +53,5 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardarf15&layout=compact&theme=tokyonight"/>
 </p>
