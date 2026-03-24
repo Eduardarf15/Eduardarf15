@@ -1,5 +1,3 @@
-# 👩🏻‍💻Eduarda
-
 **`Desenvolvedora Back-End`**
 
 Desenvolvedora em formação técnica pela EEEP Mário Alencar (Fortaleza/CE).
