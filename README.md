@@ -29,39 +29,19 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 
 ### 🤖 Linguagens e Tecnologias
 
-<br>
+`Back-end e Database`
+<p>
+  <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"/>
+  <img align="left" alt="MySQL" title="MySQL" width="30px" src="https://github.com/user-attachments/assets/fc894f73-ff0c-41ba-92ec-3cdad33425ba"/>
+  <img align="left" alt="PHP" title="PHP" width="30px" src="https://github.com/user-attachments/assets/c6214786-fc7c-47b1-b1af-289238dafad4"/>
+  <img align="left" alt="C++" title="C++" width="30px" src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b"/>
+</p>
 
-#### 🧠 Back-end e Database
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" 
-src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"/>
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" 
-src="https://github.com/user-attachments/assets/fc894f73-ff0c-41ba-92ec-3cdad33425ba"/>
-
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" 
-src="https://github.com/user-attachments/assets/c6214786-fc7c-47b1-b1af-289238dafad4"/>
-
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" 
-src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b"/>
-
-<br><br><br>
-
-#### 🎨 Front-end e Tools
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
-src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5"/>
-
-<br><br><br>
+`Front-end e Tools`
+<p>
+  <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="left" alt="Git" title="Git" width="30px" src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5"/>
+</p>
