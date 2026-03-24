@@ -37,6 +37,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
   <img align="left" alt="PHP" title="PHP" width="30px" src="https://github.com/user-attachments/assets/c6214786-fc7c-47b1-b1af-289238dafad4"/>
   <img align="left" alt="C++" title="C++" width="30px" src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b"/>
 </p>
+<br>
 
 `Front-end e Tools`
 <p>
