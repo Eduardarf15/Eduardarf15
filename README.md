@@ -47,3 +47,10 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="left" alt="Git" title="Git" width="30px" src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5"/>
 </p>
+</div>
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</div>
+
+</div>
