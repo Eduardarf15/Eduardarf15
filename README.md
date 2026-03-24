@@ -28,6 +28,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
 
 
 ### 🤖 Linguagens e Tecnologias
+<br><br>
 **`Back-end e Database`**
 <img 
     align="left" 
@@ -68,6 +69,7 @@ Busco aplicar princípios de Engenharia de Software e metodologias ágeis para t
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b543d958-249f-47f1-97ee-3aca0985456b" />
+    <br><br>
     **`Front-end e Tools`**
 <img 
     align="left" 
