@@ -7,16 +7,16 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
 <p align="left">
     <a href="https://www.youtube.com/@picotaaz" target="_blank">
         <img 
-            alt="YouTube" 
-            title="Inscreva-se no meu canal" 
-            src="https://img.icons8.com/fluency/48/aa66cc/youtube-play.png"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://github.com/user-attachments/assets/89f07858-cfdf-4ebf-99fe-69d571940b4d"
             style="width:48px; height:48px; margin-right:10px;"
         />
     </a>
     <a href="https://www.instagram.com/eduardafr___/" target="_blank">
         <img 
             alt="Instagram" 
-            title="Instagram profile" 
+            title="Perfil do Instagram" 
             src="https://img.icons8.com/fluency/48/aa66cc/instagram-new.png"
             style="width:48px; height:48px;"
         />
