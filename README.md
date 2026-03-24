@@ -56,7 +56,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bebC_d4eWwJ-x9ntqDuT94TvOgumSBVWHg&s" 
+    src="https://github.com/user-attachments/assets/5b5acf15-463a-4b13-bb6e-9e89a538400a"
 />
 <img 
     align="left" 
@@ -79,7 +79,7 @@ My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazi
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficons8.com.br%2Ficon%2F20906%2Fgit&ved=0CBYQjRxqFwoTCKCW45jnuJMDFQAAAAAdAAAAABAH&opi=89978449" 
+    src="https://toppng.com/uploads/preview/git-logo-11609362364wwhuzvtx5h.png"
 />
 <br/>
 <br/>
