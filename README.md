@@ -6,7 +6,7 @@ Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integ
 Busco aplicar princípios de Engenharia de Software e metodologias ágeis para transformar requisitos complexos em soluções escaláveis e eficientes.
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 `Back-end e Database`
 <p>
