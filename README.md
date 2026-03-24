@@ -1,6 +1,6 @@
 # 👩🏻‍💻Eduarda
 
-**`Desenvolvedora Back-End`**
+**`Back-End Developer | Systems Development Student`**
 
 My name is Maria Eduarda Rocha F. I'm 16 years old and I'm from Fortaleza, Brazil. I'm currently attending high school at EEEP Mário Alencar, where I'm also taking a technical course in Systems Development. I'm honing my programming skills. I'm deeply passionate about technology.
 
