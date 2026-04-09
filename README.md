@@ -1,7 +1,7 @@
 **`Desenvolvedora Back-End`**
 
 Desenvolvedora em formação técnica pela EEEP Mário Alencar (Fortaleza/CE).
-Foco minha trajetória em arquitetura de sistemas back-end e modelagem eficiente de dados.
+Foco minha trajetória em arquitetura de sistemas Full-Stack e modelagem eficiente de dados.
 Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
 Busco aplicar princípios de Engenharia de Software e metodologias ágeis para transformar requisitos complexos em soluções escaláveis e eficientes.
 
