@@ -23,6 +23,7 @@
 const desenvolvedora = {
   localizacao: "Fortaleza, CE - Brasil 🇧🇷",
   cargo: "Desenvolvedora Back-End",
+  empresa: "Focus Tech"
   formacao: "Técnico em Desenvolvimento de Sistemas — EEEP Mário Alencar",
   foco: [
     "Arquitetura de sistemas Full-Stack",
