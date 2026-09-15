@@ -76,6 +76,14 @@ const desenvolvedora = {
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/dist/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/dist/snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   <b>🌍 Aberta a oportunidades e colaborações!</b>
 </p>
