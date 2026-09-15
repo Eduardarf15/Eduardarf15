@@ -87,7 +87,3 @@ const desenvolvedora = {
 <p align="center">
   <b>🌍 Aberta a oportunidades e colaborações!</b>
 </p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/a05f04921d7d6a27665d29f93ec6ce7976d76d05f2b0c4381e42bbd335de27a7/68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966" />
-</p>
