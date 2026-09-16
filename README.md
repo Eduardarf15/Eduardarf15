@@ -19,7 +19,7 @@
 
 ## Sobre Mim
 
-<img src="./terminal-banner.svg" alt="terminal banner" width="700" />
+<img src="./banner-eduarda-legal.svg" width="700" />
 
 ## Info
 
