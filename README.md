@@ -19,6 +19,10 @@
 
 ## Sobre Mim
 
+<img src="./terminal-banner.svg" alt="terminal banner" width="700" />
+
+## Info
+
 ```typescript
 const desenvolvedora = {
   localizacao: "Fortaleza, CE - Brasil 🇧🇷",
