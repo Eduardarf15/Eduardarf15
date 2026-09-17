@@ -23,22 +23,22 @@
 
 ## Info
 
-```typescript
-const desenvolvedora = {
-  localizacao: "Fortaleza, CE - Brasil 🇧🇷",
-  cargo: "Desenvolvedora Back-End",
-  empresa: "Focus Tech",
-  formacao: "Técnico em Desenvolvimento de Sistemas — EEEP Mário Alencar",
-  foco: [
-    "Arquitetura de sistemas Full-Stack",
-    "Modelagem eficiente de dados",
-    "APIs RESTful de alta performance",
-    "Integração de sistemas distribuídos",
-    "Automação de processos"
-  ],
-  objetivo: "Aplicar Engenharia de Software e metodologias ágeis para " +
-            "transformar requisitos complexos em soluções escaláveis"
-};
+```python
+desenvolvedora = {
+    "localizacao": "Fortaleza, CE - Brasil",
+    "cargo": "Desenvolvedora Back-End",
+    "empresa": "Focus Tech",
+    "formacao": "Técnico em Desenvolvimento de Sistemas — EEEP Mário Alencar",
+    "foco": [
+        "Arquitetura de sistemas Full-Stack",
+        "Modelagem eficiente de dados",
+        "APIs RESTful de alta performance",
+        "Integração de sistemas distribuídos",
+        "Automação de processos"
+    ],
+    "objetivo": "Aplicar Engenharia de Software e metodologias ágeis para "
+                "transformar requisitos complexos em soluções escaláveis"
+}
 ```
 
 > Desenvolvedora em formação técnica pela **EEEP Mário Alencar** (Fortaleza/CE), com foco em arquitetura de sistemas Full-Stack e modelagem eficiente de dados. Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
