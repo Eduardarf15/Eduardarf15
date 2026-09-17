@@ -80,6 +80,12 @@ const desenvolvedora = {
 
 ---
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardarf15&theme=material-palenight&locale=pt_BR" alt="GitHub Streak" /></a>
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake.svg" />
