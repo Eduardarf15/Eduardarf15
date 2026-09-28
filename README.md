@@ -56,7 +56,7 @@ desenvolvedora = {
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,react,nodejs,python&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,react,js,nodejs,python&perline=7" />
 
 </td></tr>
 <tr><td align="center">
