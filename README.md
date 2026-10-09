@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+%5BEduardarf15%5D;Desenvolvedora+FullStack;Arquitetura+Full-Stack+%26+Modelagem+de+Dados](https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=500&color=9344C3&separator=%3C&lines=Oii%2C+sou+Eduarda!!+%3CNo+Github+como+eduardarf15%3CDesenvolvedora+Fullstack %3CArquitetura+Fullstack%3CModelagem+de+dados%3C(Aprendendo+cada+vez+mais%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+%5BEduardarf15%5D;Desenvolvedora+Backend;Arquitetura+Full-Stack+%26+Modelagem+de+Dados](https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=500&color=9344C3&separator=%3C&lines=Oii%2C+sou+Eduarda!!+%3CNo+Github+como+eduardarf15%3CDesenvolvedora+Backend %3CArquitetura+Fullstack%3CModelagem+de+dados%3C(Aprendendo+cada+vez+mais%29" alt="Typing SVG" />
 </h1>
 
 <p align="center">
