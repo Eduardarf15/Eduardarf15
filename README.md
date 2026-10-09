@@ -41,7 +41,7 @@ desenvolvedora = {
 }
 ```
 
-> Desenvolvedora em formação técnica pela **EEEP Mário Alencar** (Fortaleza/CE), com foco em arquitetura de sistemas Full-Stack e modelagem eficiente de dados. Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
+> Desenvolvedora Full Stack em formação. Técnica em Desenvolvimento de Sistemas pela EEEP Mário Alencar (Fortaleza/CE). Estagiária na Focus Tecnologia. Fundadora do Voluntários Focus. Foco em arquitetura de sistemas Full-Stack e modelagem eficiente de dados. Tenho experiência no desenvolvimento de APIs RESTful de alta performance, integração de sistemas distribuídos e automação de processos.
 
 ---
 
