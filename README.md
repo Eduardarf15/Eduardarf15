@@ -26,7 +26,7 @@
 ```python
 desenvolvedora = {
     "localizacao": "Fortaleza, CE - Brasil",
-    "cargo": "Desenvolvedora Back-End",
+    "cargo": "Desenvolvedora Full-Stack",
     "empresa": "Focus Tech",
     "formacao": "Técnico em Desenvolvimento de Sistemas — EEEP Mário Alencar",
     "foco": [
