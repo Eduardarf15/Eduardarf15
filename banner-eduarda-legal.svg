@@ -69,7 +69,7 @@
 
   <!-- row 5: role output line 2 -->
   <g clip-path="url(#clipRow5)">
-    <text x="26" y="232" font-size="17" fill="#4b2760">Back-end Developer <tspan fill="#c9a3de">@</tspan> <tspan fill="#0d9488">Focus Tech</tspan></text>
+    <text x="26" y="232" font-size="17" fill="#4b2760">Full-Stack Developer <tspan fill="#c9a3de">@</tspan> <tspan fill="#0d9488">Focus Tech</tspan></text>
   </g>
 
   <!-- row 6: next prompt + blinking cursor -->
