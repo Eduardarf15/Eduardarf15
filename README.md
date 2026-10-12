@@ -57,7 +57,7 @@ desenvolvedora = {
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,react,js,nodejs,python&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,react,ts,js,nodejs,python&perline=7" />
 
 </td></tr>
 <tr><td align="center">
@@ -93,5 +93,5 @@ desenvolvedora = {
 ---
 
 <p align="center">
-  <b>🌍 Aberta a oportunidades e colaborações!</b>
+  <b>Aberta a oportunidades e colaborações!</b>
 </p>
